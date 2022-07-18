@@ -223,7 +223,7 @@ if($continue){
                 <span>'.$value.' Pieces</span>
             </div>
             <div class="col s3">
-                <span>Rs. '.$price.'</span>
+                <span>php. '.$price.'</span>
             </div>
         </div>
     </li>';
@@ -239,7 +239,7 @@ if($continue){
                 <span>&nbsp;</span>
             </div>
             <div class="col s3">
-                <span><strong>Rs. '.$total.'</strong></span>
+                <span><strong>php. '.$total.'</strong></span>
             </div>
         </div>
     </li>';

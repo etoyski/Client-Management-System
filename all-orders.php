@@ -52,7 +52,8 @@ include 'includes/connect.php';
             <nav class="navbar-color">
                 <div class="nav-wrapper">
                     <ul class="left">                      
-                      <li><h1 class="logo-wrapper"><a href="index.php" class="brand-logo darken-1"><img src="images/materialize-logo.png" alt="logo"></a> <span class="logo-text">Logo</span></h1></li>
+                    <li><h1 class="logo-wrapper"><a href="index.php" class="brand-logo darken-1">Andaks</a> </h1></li>
+
                     </ul>
                 </div>
             </nav>
@@ -230,7 +231,7 @@ include 'includes/connect.php';
                             <span>'.$row1['quantity'].' Pieces</span>
                             </div>
                             <div class="col s3">
-                            <span>Rs. '.$row1['price'].'</span>
+                            <span>php. '.$row1['price'].'</span>
                             </div>
                             </div>
                             </li>';
@@ -244,7 +245,7 @@ include 'includes/connect.php';
 											<span> </span>
                                             </div>
                                             <div class="col s3">
-                                                <span><strong>Rs. '.$row['total'].'</strong></span>
+                                                <span><strong>php. '.$row['total'].'</strong></span>
                                             </div>';										
 								if(!$deleted){
 								echo '<button class="btn waves-effect waves-light right submit" type="submit" name="action">Change Status
