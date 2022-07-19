@@ -151,7 +151,7 @@ include 'includes/connect.php';
                         </li>
                     </ul>
                 </li>
-                 <li class="no-padding">
+                 <!-- <li class="no-padding">
                     <ul class="collapsible collapsible-accordion">
                         <li class="bold"><a class="collapsible-header waves-effect waves-cyan"><i class="mdi-action-question-answer"></i> Tickets</a>
                             <div class="collapsible-body">
@@ -169,7 +169,7 @@ include 'includes/connect.php';
                             </div>
                         </li>
                     </ul>
-                </li>			
+                </li>			 -->
             <li class="bold active"><a href="users.php" class="waves-effect waves-cyan"><i class="mdi-social-person"></i> Users</a>
             </li>			
         </ul>
@@ -339,8 +339,8 @@ include 'includes/connect.php';
   <footer class="page-footer">
     <div class="footer-copyright">
       <div class="container">
-        <span>Copyright © 2017 <a class="grey-text text-lighten-4" href="#" target="_blank">Students</a> All rights reserved.</span>
-        <span class="right"> Design and Developed by <a class="grey-text text-lighten-4" href="#">Students</a></span>
+      <span>Copyright © 2022 <a class="grey-text text-lighten-4" href="#" target="_blank">Group 2</a> All rights reserved.</span>
+        <span class="right"> Design and Developed by <a class="grey-text text-lighten-4" href="#">Group 2</a></span>
         </div>
     </div>
   </footer>

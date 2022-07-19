@@ -156,7 +156,7 @@ include 'includes/connect.php';
                         </li>
                     </ul>
                 </li>
-                 <li class="no-padding">
+                 <!-- <li class="no-padding">
                     <ul class="collapsible collapsible-accordion">
                         <li class="bold"><a class="collapsible-header waves-effect waves-cyan"><i class="mdi-action-question-answer"></i> Tickets</a>
                             <div class="collapsible-body">
@@ -174,7 +174,7 @@ include 'includes/connect.php';
                             </div>
                         </li>
                     </ul>
-                </li>			
+                </li>			 -->
             <li class="bold"><a href="users.php" class="waves-effect waves-cyan"><i class="mdi-social-person"></i> Users</a>
             </li>				
         </ul>
